@@ -1,0 +1,161 @@
+import pro from '../images/Realme/pro.JPG';
+import six from '../images/Realme/Six.JPG';
+import C3i from '../images/Realme/c3i.JPG';
+import C11 from '../images/Realme/c11.JPG';
+import Narzo from '../images/Realme/Narzo.JPG';
+import fiftyone from '../images/Samsung/a51.JPG';
+import m11 from '../images/Samsung/m11.JPG';
+import m21 from '../images/Samsung/m21.JPG';
+import a31 from '../images/Oppo/a31.JPG';
+import a92 from '../images/Oppo/a92.JPG';
+
+const mobiledisplay = [
+    {
+        id:1,
+        imgsrc: pro,
+        name: "RealMe",
+        model: "Pro6",
+        price: 15000,
+        ram: "4GB",
+        rom: "64GB",
+        processor: "745 Snapdragon",
+        fcam: "16mp",
+        bcam: "32mp,2mp for depth",
+        colorvariant: "blue,black available",
+        protection: "gorilla glass5",
+
+    },
+    {
+        id:2,
+        imgsrc: six,
+        name: "RealMe",
+        model: "6S",
+        price: 12000,
+        ram: "4GB",
+        rom: "64GB",
+        processor: "745 Snapdragon",
+        fcam: "16mp",
+        bcam: "32mp,2mp for depth",
+        colorvariant: "blue,black available",
+        protection: "gorilla glass5",
+    },
+    {
+        id:3,
+        imgsrc: C3i,
+        name: "RealMe",
+        model: "C3i",
+        price: 8999,
+        ram: "4GB",
+        rom: "64GB",
+        processor: "745 Snapdragon",
+        fcam: "16mp",
+        bcam: "32mp,2mp for depth",
+        colorvariant: "blue,black available",
+        protection: "gorilla glass5",
+    },
+    {
+        id:4,
+        imgsrc: C11,
+        name: "RealMe",
+        model: "C11",
+        price: 8999,
+        ram: "4GB",
+        rom: "64GB",
+        processor: "745 Snapdragon",
+        fcam: "16mp",
+        bcam: "32mp,2mp for depth",
+        colorvariant: "blue,black available",
+        protection: "gorilla glass5",
+    },
+    {
+        id:5,
+        imgsrc: Narzo,
+        name: "RealMe",
+        model: "Narzo",
+        price: 8999,
+        ram: "4GB",
+        rom: "64GB",
+        processor: "745 Snapdragon",
+        fcam: "16mp",
+        bcam: "32mp,2mp for depth",
+        colorvariant: "blue,black available",
+        protection: "gorilla glass5",
+    },
+    
+    {
+        id:6,
+        imgsrc: fiftyone,
+        name: "Samsung",
+        model: "A51",
+        price: 15000,
+        ram: "4GB",
+        rom: "64GB",
+        processor: "745 Snapdragon",
+        fcam: "16mp",
+        bcam: "32mp,2mp for depth",
+        colorvariant: "blue,black available",
+        protection: "gorilla glass5",
+
+    },
+    {
+        id:7,
+        imgsrc: m11,
+        name: "Samsung",
+        model: "M11",
+        price: 9000,
+        ram: "4GB",
+        rom: "64GB",
+        processor: "745 Snapdragon",
+        fcam: "16mp",
+        bcam: "32mp,2mp for depth",
+        colorvariant: "blue,black available",
+        protection: "gorilla glass5",
+
+    },
+    {
+        id:8,
+        imgsrc: m21,
+        name: "Samsung",
+        model: "M21",
+        price: 11000,
+        ram: "4GB",
+        rom: "64GB",
+        processor: "745 Snapdragon",
+        fcam: "16mp",
+        bcam: "32mp,2mp for depth",
+        colorvariant: "blue,black available",
+        protection: "gorilla glass5",
+
+    },
+    {
+        id:9,
+        imgsrc: a31,
+        name: "Oppo",
+        model: "A31",
+        price: 7000,
+        ram: "4GB",
+        rom: "64GB",
+        processor: "745 Snapdragon",
+        fcam: "16mp",
+        bcam: "32mp,2mp for depth",
+        colorvariant: "blue,black available",
+        protection: "gorilla glass5",
+
+    },
+    {
+        id:10,
+        imgsrc: a92,
+        name: "Oppo",
+        model: "A92",
+        price: 11999,
+        ram: "4GB",
+        rom: "64GB",
+        processor: "745 Snapdragon",
+        fcam: "16mp",
+        bcam: "32mp,2mp for depth",
+        colorvariant: "blue,black available",
+        protection: "gorilla glass5",
+
+    },
+]
+export default mobiledisplay;
